@@ -1,0 +1,5 @@
+Python question
+
+1)why Python is extensilvely used
+
+2) Python assigment opertaors are
